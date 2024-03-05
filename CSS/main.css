@@ -13,7 +13,7 @@ ul {
 .header {
    width: 100%;
    height: 100vh;
-   background-color: rgb(212, 0, 255);
+   background-color: rgb(217, 23, 143);
 }
 
 .nav {
@@ -65,4 +65,11 @@ ul {
    font-size: 36px;
    text-transform: uppercase;
 font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+.header-title2 {
+   color: rgb(217, 255, 0);
+   font-size: 36px;
+   text-transform: uppercase;
+   font-family: 'Times New Roman', Times, serif;
 }
